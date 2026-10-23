@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://franck001-lang.github.io/coachm-abidjan/sitemap.xml
